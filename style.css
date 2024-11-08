@@ -5,3 +5,8 @@
 .mainhdr {
     text-align: center;
 }
+
+.food-img {
+    height: auto;
+    width: 300px;
+}
