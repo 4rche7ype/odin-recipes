@@ -8,16 +8,17 @@ body{
     padding: 8px;
 }
 
-.home-list {
-    font-size: 18px;
-    display: inline-block;
-}
-
 .mainhdr {
     text-align: center;
     font-size: 40px;
     border-style: double;
     margin: 8px;
+    margin-bottom: 16px;
+}
+
+.home-list {
+    font-size: 18px;
+    border-style: double;
 }
 
 .food-img {
